@@ -1,0 +1,19 @@
+[project]
+name = "qeqweqwqweqweqeqewqeqweqw"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Mows", email = "k0258659@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "adaptix>=3.0.0b12",
+    "aiomisc[uvicorn]>=18.0.37",
+    "alembic>=1.20.1",
+    "asyncpg>=0.32.0",
+    "dishka>=1.10.1",
+    "fastapi>=0.162.2",
+    "sqlalchemy[asyncio]>=2.1.8",
+]
+
